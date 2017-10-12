@@ -1,5 +1,12 @@
 ## Application Design
 
+
+
+
+Sample of Slack Conversations
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-SLACK.png)
+
+
 Demonstrate your ability to break down the problem and design a solution.
 
 1. One page summary of your application including problem definition, solution. -- **DONE**
@@ -65,17 +72,17 @@ Link: https://trello.com/b/MnJGa9TB
 For the user stories, we have three (3) types of users namely:  User (Volunteer), Institution(NGOs) and Admin
 
 
-- Volunteer
+-- Volunteer
 For this type of user we wanted our volunteer to be able to have the basic functions of signing-up /logging-in.  Also, to have the capability to view, filter and select opportunities where they can submit their application that matches their specific skills and interests.
 
 
 
-- Institutions (eg. NGOs)
+-- Institutions (eg. NGOs)
 An example for this type of user are NGOs.  Organizations which can post their opportunities with detailed information.  The functions of these users include the ability to accept or decline an applicant and be able to add and remove opportunities depending on their schedules and status of activity.  
 
 
 
-- Admin 
+-- Admin 
 This is the super user.  This has the control of the overall performance of the app.  The admin has the all the rights and privileges to properly monitor the process and design of the application.
 
 
