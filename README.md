@@ -7,7 +7,12 @@ Demonstrate your ability to break down the problem and design a solution.
 3. Wireframes for at least 3 screens. **Marc**
  
 
+For the wireframes we have created two types, one for the desktop/laptop design and the other is for mobile devices.
 
+
+The first screenshot is for the desktop/laptop design.  The prospect is to provide a three-frame application consisting of the following:
+- Landing Page
+-  
 
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20DESKTOP.png)
 
