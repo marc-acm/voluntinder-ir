@@ -7,6 +7,11 @@ Demonstrate your ability to break down the problem and design a solution.
 3. Wireframes for at least 3 screens. **Marc**
  
 
+
+### Wireframes
+Link: https://www.figma.com/file/C3NVkU1709nBjPHMeBn0zyKT/3rd-Term-Final-Project
+
+
 For the wireframes we have created two types, one for the desktop/laptop design and the other is for mobile devices.
 
 
@@ -18,40 +23,33 @@ The first three screenshots are for the desktop/laptop design.  The prospect is 
 
 The application is designed with an option of a static bar to be shown throughout the three frames. 
 
-#Landing Page
+##### Landing Page
+This contains the Sign-up Form for people who desires to have their profile match with a specific project.
 
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%201.png)
 
-This contains the Sign-up Form for people who desires to have their profile match with a specific project.
-  
-
-
  
-#Project/Opportunities
-![alt text align](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%202.png)
-
+ 
+##### Project/Opportunities
 The second frame provides a view of the different available projects.
 
+![alt text align](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%202.png)
 
 
-#Specific Opportunity
+##### Specific Opportunity
+This page will show the details for a single specific project.
 
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%203.png)
 
-This page will show the details for a single specific project.
 
 
-![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%201.png)
-
+##### Below is the Mobile Design with the same three frames
 
 
 
+![alt text][align="center"](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%201.png)
 
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%202.png)
-
-
-
-
 
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%203.png)
 
@@ -60,25 +58,50 @@ This page will show the details for a single specific project.
 
 
 
-4. User stories for the whole application. 
-
-As for our user stories, we have three (3) types of users
-
-
-User (Volunteer)
+### User Stories
+Link: https://trello.com/b/MnJGa9TB
 
 
-
-Institutions (eg. NGOs)
-
-
-Admin (
+As for our user stories, we have three (3) types of users namely :  User (Volunteer), Institutions (NGOs) and Admin
 
 
-t 
-5. Entity Relationship Diagram (ERD). 
+- Volunteer
+For this type of user we wanted our volunteer to be able to have the basic functions of signing-up /logging-in.  Also, to have the capability to view, filter and select opportunities where they can submit their application that matches their specific skills and interests.
 
 
+
+- Institutions (eg. NGOs)
+An example for this type of user are NGOs.  Organizations which can post their opportunities with detailed information.  The functions of these users include the ability to accept or decline an applicant and be able to add and remove opportunities depending on their schedules and status of activity.  
+
+
+
+- Admin 
+This type of user is what we call super user.  This has the control for the overall performance of the app.  The admin has the all the rights and privileges to properly monitor the process and design of the application.
+
+
+Figure below is the Trello Board for the Voluntinder User Stories
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-TRELLO.png)
+
+
+
+### Entity Relationship Diagram (ERD)
+Link: https://www.lucidchart.com/invitations/accept/02cb0d00-8d1a-4c97-b9b9-ea00c17a9b70
+
+
+An entity relationship diagram (ERD) shows the relationships of entity sets stored in a database.
+
+For this application, we made use of Information Engineering Style to express cardinality showing how many occurences of relationships among different entities.
+
+As shown in the figure below, there are three entities, namely the Vounteer, Institution and Opportunity establishing their inter-relationships.
+
+The Volunteer, with its name, email and phone_no., has the functions of signing-up.  Once done with this, this user can already filter the many opportunities available but may only be able to select only one opportunity and submit a single application for the chosen project.
+
+As for the Institution, an organization which able to has the ability to create and delete can have one to many opportunities.
+
+On the opportunity side,  with each specific opportunity, it can have one or many volunteers but a particular opportunity or project must only belong to a specific organization or institution. 
+
+
+The connection between Volunteer and Institution is only through the created Opportunity. 
 
 
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20ERD.png)
