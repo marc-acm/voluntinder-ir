@@ -14,7 +14,14 @@ The first screenshot is for the desktop/laptop design.  The prospect is to provi
 - Landing Page
 -  
 
-![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20DESKTOP.png)
+
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP-1.png)
+
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP-2.png)
+
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP-3.png)
+
+
 
 
 
@@ -48,13 +55,13 @@ Institutions (eg. NGOs)
 Admin (
 
 
-
+t 
 5. Entity Relationship Diagram (ERD). 
 
 
 
 
-![alt text][https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20ERD.png)
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20ERD.png)
 
 
    
