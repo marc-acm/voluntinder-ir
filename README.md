@@ -62,7 +62,7 @@ This page will show the details for a single specific project.
 Link: https://trello.com/b/MnJGa9TB
 
 
-As for our user stories, we have three (3) types of users namely :  User (Volunteer), Institutions (NGOs) and Admin
+For the user stories, we have three (3) types of users namely:  User (Volunteer), Institution(NGOs) and Admin
 
 
 - Volunteer
@@ -76,7 +76,7 @@ An example for this type of user are NGOs.  Organizations which can post their o
 
 
 - Admin 
-This type of user is what we call super user.  This has the control for the overall performance of the app.  The admin has the all the rights and privileges to properly monitor the process and design of the application.
+This is the super user.  This has the control of the overall performance of the app.  The admin has the all the rights and privileges to properly monitor the process and design of the application.
 
 
 Figure below is the Trello Board for the Voluntinder User Stories
