@@ -47,7 +47,7 @@ This page will show the details for a single specific project.
 
 
 
-![alt text][align="center"](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%201.png)
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%201.png)
 
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%202.png)
 
@@ -94,9 +94,9 @@ For this application, we made use of Information Engineering Style to express ca
 
 As shown in the figure below, there are three entities, namely the Vounteer, Institution and Opportunity establishing their inter-relationships.
 
-The Volunteer, with its name, email and phone_no., has the functions of signing-up.  Once done with this, this user can already filter the many opportunities available but may only be able to select only one opportunity and submit a single application for the chosen project.
+The Volunteer, with its name, email and phone_no., has the functions of signing-up.  Once done with this, a user can already filter the many opportunities available but may only be able to select only one opportunity and submit a single application for the chosen project.
 
-As for the Institution, an organization which able to has the ability to create and delete can have one to many opportunities.
+As for the Institution, with its ability to create and delete, can have one to many opportunities.
 
 On the opportunity side,  with each specific opportunity, it can have one or many volunteers but a particular opportunity or project must only belong to a specific organization or institution. 
 
