@@ -20,14 +20,15 @@ The application is designed with an option of a static bar to be shown throughou
 
 #Landing Page
 
-<p align=center>![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%201.png)<p>
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%201.png)
 
 This contains the Sign-up Form for people who desires to have their profile match with a specific project.
   
 
 
+ 
 #Project/Opportunities
-<p align=center> ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%202.png)<p>
+![alt text align](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%202.png)
 
 The second frame provides a view of the different available projects.
 
@@ -35,7 +36,7 @@ The second frame provides a view of the different available projects.
 
 #Specific Opportunity
 
-<p align=center>![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%203.png)<p>
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%203.png)
 
 This page will show the details for a single specific project.
 
