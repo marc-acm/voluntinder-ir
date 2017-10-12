@@ -10,26 +10,45 @@ Demonstrate your ability to break down the problem and design a solution.
 For the wireframes we have created two types, one for the desktop/laptop design and the other is for mobile devices.
 
 
-The first screenshot is for the desktop/laptop design.  The prospect is to provide a three-frame application consisting of the following:
+The first three screenshots are for the desktop/laptop design.  The prospect is to provide a three-frame application consisting of the following:
+
 - Landing Page
--  
+- Opportunities
+- Details of A Specific Opportunity
+
+The application is designed with an option of a static bar to be shown throughout the three frames. 
+
+#Landing Page
+
+<p align=center>![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%201.png)<p>
+
+This contains the Sign-up Form for people who desires to have their profile match with a specific project.
+  
 
 
-![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP-1.png)
+#Project/Opportunities
+<p align=center> ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%202.png)<p>
 
-![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP-2.png)
-
-![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP-3.png)
-
+The second frame provides a view of the different available projects.
 
 
+
+#Specific Opportunity
+
+<p align=center>![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%203.png)<p>
+
+This page will show the details for a single specific project.
 
 
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%201.png)
 
 
 
+
+
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%202.png)
+
+
 
 
 
