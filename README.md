@@ -22,11 +22,12 @@ Link: https://www.figma.com/file/C3NVkU1709nBjPHMeBn0zyKT/3rd-Term-Final-Project
 For the wireframes we have created two types, one for the desktop/laptop design and the other is for mobile devices.
 
 
-The first three screenshots are for the desktop/laptop design.  The prospect is to provide a three-frame application consisting of the following:
+The first four screenshots are for the desktop/laptop design.  The prospect is to provide a four-frame application consisting of the following:
 
 - Landing Page
 - Opportunities
 - Details of A Specific Opportunity
+- Profile Page
 
 The application is designed with an option of a static bar to be shown throughout the three frames. 
 
@@ -50,6 +51,13 @@ This page will show the details for a single specific project.
 
 
 
+##### Profile Page
+This frame provides details of the volunteer.
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER-WIFEFRAME-DESKTOP%204.png)
+
+
+
+
 ##### Below is the Mobile Design with the same three frames
 
 
@@ -60,6 +68,7 @@ This page will show the details for a single specific project.
 
 ![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%203.png)
 
+![alt text](https://github.com/marc-acm/voluntinder-ir/blob/master/images/VOLUNTINDER%20-%20WIREFRAME%20-%20MOBILE%204.png)
 
 
 
