@@ -20,8 +20,8 @@ class IndexPage extends Component {
               return (
                 <div>
                   <h3>This the index page</h3>
-                  <p>Volunteering is a two-way beneficial process.  As it brings positive effects to all the parties involved.
-                  A small act of kindess can bring a big difference to the lives of people, animals and organizations.
+                  <p>Volunteering is a two-way beneficial process as it brings positive effects to all the parties involved.
+                  With a small act of kindess it can bring a big difference to the lives of people, animals and organizations.
 
 
                   (Some copy here, something about volunteering and this project, and then show like 3-5 opps then a link to all available opps)</p>
